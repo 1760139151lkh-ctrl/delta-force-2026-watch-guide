@@ -1,170 +1,149 @@
 [
   {
-    "file": "assets/images/image-01.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1P3T46KEka/?p=2",
     "sourceLabel": "回到图中这一刻",
     "caption": "约19:52，导播正在看XDD的大坝第一视角。顶部即时数据为第63、11.61M、16击败；这是比赛进行中的一个时点，不是当晚结算。",
-    "location": "data.chapters[1].report.images[0]",
-    "sha256": "5ec5a6d045a9757b18346b67ceac2cbce848ca61aadece652c55aafc42454de2"
+    "sha256": "5ec5a6d045a9757b18346b67ceac2cbce848ca61aadece652c55aafc42454de2",
+    "embeddedAt": "data.chapters[1].report.images[0]"
   },
   {
-    "file": "assets/images/image-02.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1LgTt6REqZ/?p=4",
     "sourceLabel": "格温原版对应分P",
     "caption": "7月3日约20:07，格温录制的BBFPS第一视角。画面写着“巅峰赛day1 大坝练习生”，换弹、队友信息与主播摄像头保留在同一屏。",
-    "location": "data.chapters[1].report.images[1]",
-    "sha256": "2b508e0bf5bb746036cc0b95b6464fceb6c70f4facb65432b19ed6249fb03c90"
+    "sha256": "2b508e0bf5bb746036cc0b95b6464fceb6c70f4facb65432b19ed6249fb03c90",
+    "embeddedAt": "data.chapters[1].report.images[1]"
   },
   {
-    "file": "assets/images/image-03.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1HfMc6cEU5/?p=2",
     "sourceLabel": "回到图中这一刻",
     "caption": "约19:52，Zyy在巴克什室内持枪观察。右侧积分榜仍在滚动，首周“本周不做淘汰”的规则同时留在画面里。",
-    "location": "data.chapters[2].report.images[0]",
-    "sha256": "3a8297e4bd1c2f46dc0ab39c95109d9e985821b3bc3d7b6dfe5a7ee2139ad7d1"
+    "sha256": "3a8297e4bd1c2f46dc0ab39c95109d9e985821b3bc3d7b6dfe5a7ee2139ad7d1",
+    "embeddedAt": "data.chapters[2].report.images[0]"
   },
   {
-    "file": "assets/images/image-04.jpg",
     "sourceUrl": "https://wx3.sinaimg.cn/large/008J0RWbgy1iesfjnkjd9j31hc0u0166.jpg",
     "sourceLabel": "官方日榜来源",
     "caption": "这张是官方当晚公布的榜图，与前一张比赛中的即时画面分开看。点击可放大逐项读。",
-    "location": "data.chapters[2].report.images[1]",
-    "sha256": "d0d80d7a3219fda12e44d496be676403ea30e9b445f729678a8f987d2e145572"
+    "sha256": "d0d80d7a3219fda12e44d496be676403ea30e9b445f729678a8f987d2e145572",
+    "embeddedAt": "data.chapters[2].report.images[1]"
   },
   {
-    "file": "assets/images/image-05.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1c9T16JEhN/?p=2",
     "sourceLabel": "回到图中这一刻",
     "caption": "约19:51，JDGduyilin打开航天战术地图；右侧即时击败榜上，小叮当暂列第6、73击败。战术地图与排榜在同一屏出现，数字仍会继续变化。",
-    "location": "data.chapters[3].report.images[0]",
-    "sha256": "7751ae5b9d849ffd65ee38a11093149f3b1c1cd784994c60b01b85bf418bfd97"
+    "sha256": "7751ae5b9d849ffd65ee38a11093149f3b1c1cd784994c60b01b85bf418bfd97",
+    "embeddedAt": "data.chapters[3].report.images[0]"
   },
   {
-    "file": "assets/images/image-06.jpg",
     "sourceUrl": "https://wx1.sinaimg.cn/large/008J0RWbgy1ietkcdqaiaj31hc0u0nab.jpg",
     "sourceLabel": "官方日榜来源",
     "caption": "这张是官方当晚公布的榜图，与前一张比赛中的即时画面分开看。点击可放大逐项读。",
-    "location": "data.chapters[3].report.images[1]",
-    "sha256": "65457beda2d52222ed6ebeda6433c66636ac4e41557cf5a3172db167c64e1412"
+    "sha256": "65457beda2d52222ed6ebeda6433c66636ac4e41557cf5a3172db167c64e1412",
+    "embeddedAt": "data.chapters[3].report.images[1]"
   },
   {
-    "file": "assets/images/image-07.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1rhNn6gEcV/",
     "sourceLabel": "官方首周回顾",
     "caption": "7月10日发布的首周回顾封面。首周已经看完后，再读它概括的反差与高光。",
-    "location": "data.chapters[3].report.images[2]",
-    "sha256": "d72204e7eb5f9ad30de03866ebfdbf1177ddd43e953cdf3cbc31776407ceb747"
+    "sha256": "d72204e7eb5f9ad30de03866ebfdbf1177ddd43e953cdf3cbc31776407ceb747",
+    "embeddedAt": "data.chapters[3].report.images[2]"
   },
   {
-    "file": "assets/images/image-08.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1fdNJ6PEFZ/?p=2",
     "sourceLabel": "回到图中这一刻",
     "caption": "约19:51，情久_Mo视角正在换弹。右侧是即时击败榜：BBFPS此时第20、85击败；这不是综合积分榜或阶段最终名次。",
-    "location": "data.chapters[5].report.images[0]",
-    "sha256": "6e6de1c5fa89787665520750ee3a261b06d33ac1ac2039fcb0d6a7909a11effa"
+    "sha256": "6e6de1c5fa89787665520750ee3a261b06d33ac1ac2039fcb0d6a7909a11effa",
+    "embeddedAt": "data.chapters[5].report.images[0]"
   },
   {
-    "file": "assets/images/image-09.jpg",
     "sourceUrl": "https://www.sina.cn/news/detail/5319291908132563.html",
     "sourceLabel": "官方日榜来源",
     "caption": "这张是官方当晚公布的榜图，与前一张比赛中的即时画面分开看。点击可放大逐项读。",
-    "location": "data.chapters[5].report.images[1]",
-    "sha256": "e0aeef27b65b5b900698f0f241b56ae8ab9ca9574c450f03c52ccbcba6dc59fb"
+    "sha256": "e0aeef27b65b5b900698f0f241b56ae8ab9ca9574c450f03c52ccbcba6dc59fb",
+    "embeddedAt": "data.chapters[5].report.images[1]"
   },
   {
-    "file": "assets/images/image-10.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1DiNc6NEYu/?p=2",
     "sourceLabel": "回到图中这一刻",
     "caption": "约19:50，天霸一霖躲在室内掩体后维修护甲，顶部查房条当时显示第1。镜头里的几秒安静，也是下一次交火前的准备。",
-    "location": "data.chapters[6].report.images[0]",
-    "sha256": "8ce56317af88bda56a27ed2ba92400989f6374054c3c8542757a1ab2753ec6e8"
+    "sha256": "8ce56317af88bda56a27ed2ba92400989f6374054c3c8542757a1ab2753ec6e8",
+    "embeddedAt": "data.chapters[6].report.images[0]"
   },
   {
-    "file": "assets/images/image-11.jpg",
     "sourceUrl": "https://wx4.sinaimg.cn/large/008J0RWbgy1if0hmlp33oj31hc0u0ann.jpg",
     "sourceLabel": "官方日榜来源",
     "caption": "这张是官方当晚公布的榜图，与前一张比赛中的即时画面分开看。点击可放大逐项读。",
-    "location": "data.chapters[6].report.images[1]",
-    "sha256": "7596f1d5723a7c26f0fb5eda22242333f08bb5202c40527d09659bab9b8d5a08"
+    "sha256": "7596f1d5723a7c26f0fb5eda22242333f08bb5202c40527d09659bab9b8d5a08",
+    "embeddedAt": "data.chapters[6].report.images[1]"
   },
   {
-    "file": "assets/images/image-12.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1DrNA6zETw/",
     "sourceLabel": "原始录播",
     "caption": "当日昊天专属回放里的陈泽杯解说画面，能看到“07月11日”和B组名单。它解释的是同期直播去向，不是巅峰赛转播。",
-    "location": "data.chapters[6].report.images[2]",
-    "sha256": "0b73aa0738f500fdcffc6619ebd82a325075c3d8f09af3e9e2c697e774622d26"
+    "sha256": "0b73aa0738f500fdcffc6619ebd82a325075c3d8f09af3e9e2c697e774622d26",
+    "embeddedAt": "data.chapters[6].report.images[2]"
   },
   {
-    "file": "assets/images/image-13.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1KPNG6oEqS/?p=2",
     "sourceLabel": "回到图中这一刻",
     "caption": "约19:52，导播切到“艺术”的室内第一视角，霰弹枪正对准前方；右侧积分榜在同步滚动。离首轮收官还有两个多小时。",
-    "location": "data.chapters[7].report.images[0]",
-    "sha256": "5693c9420eb1770cea651cb05536950d62d69581f90a4d0dad0e238f616cff3a"
+    "sha256": "5693c9420eb1770cea651cb05536950d62d69581f90a4d0dad0e238f616cff3a",
+    "embeddedAt": "data.chapters[7].report.images[0]"
   },
   {
-    "file": "assets/images/image-14.jpg",
     "sourceUrl": "https://wx2.sinaimg.cn/large/008J0RWbgy1if1npj99xuj31hc0u04qq.jpg",
     "sourceLabel": "官方日榜来源",
     "caption": "这张是官方当晚公布的榜图，与前一张比赛中的即时画面分开看。点击可放大逐项读。",
-    "location": "data.chapters[7].report.images[1]",
-    "sha256": "4a7d10a4ad0559071983f3100bf36b278e75cca4d62f8537e1572aa0f0bb83e7"
+    "sha256": "4a7d10a4ad0559071983f3100bf36b278e75cca4d62f8537e1572aa0f0bb83e7",
+    "embeddedAt": "data.chapters[7].report.images[1]"
   },
   {
-    "file": "assets/images/image-15.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1vsNd6wEUP/?p=2",
     "sourceLabel": "回到图中这一刻",
     "caption": "约19:51，WEEK3“300进30”已出现在顶部；击败、曼德尔砖数与仓库价值同列，右侧也写明三种计分。队友正在翻窗，推进与计分从此并行。",
-    "location": "data.chapters[9].report.images[0]",
-    "sha256": "9c50cfa74ca48feedb5fbedfc70df9a586721e24cae1a46e5fe107ee4a524b78"
+    "sha256": "9c50cfa74ca48feedb5fbedfc70df9a586721e24cae1a46e5fe107ee4a524b78",
+    "embeddedAt": "data.chapters[9].report.images[0]"
   },
   {
-    "file": "assets/images/image-16.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1nVNd6zEJ5/",
     "sourceLabel": "原始录播",
     "caption": "格温记录的18:56:45起竖屏短播，开头为双人连麦。保留这一晚直播的实际样子，不把它当作比赛现场。",
-    "location": "data.chapters[9].report.images[1]",
-    "sha256": "efa6e200bba88c2521251c17119261051bebbf390dc2ab2a933fc41d586bdf05"
+    "sha256": "efa6e200bba88c2521251c17119261051bebbf390dc2ab2a933fc41d586bdf05",
+    "embeddedAt": "data.chapters[9].report.images[1]"
   },
   {
-    "file": "assets/images/image-17.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1DgKP6CEKt/?p=2",
     "sourceLabel": "回到图中这一刻",
     "caption": "约19:50，老飞宇66视角出现“驻守破译站”的目标更新。灰色是当时游戏中的技能效果；曼德尔砖已经进入这一周的计分竞争。",
-    "location": "data.chapters[10].report.images[0]",
-    "sha256": "cdeabd5acbc14ee8aaa4e92e7d1d84a6e571bdaca91b911d3cae49c8829dfb6c"
+    "sha256": "cdeabd5acbc14ee8aaa4e92e7d1d84a6e571bdaca91b911d3cae49c8829dfb6c",
+    "embeddedAt": "data.chapters[10].report.images[0]"
   },
   {
-    "file": "assets/images/image-18.jpg",
     "sourceUrl": "https://www.bilibili.com/video/BV1pgKz6hEPG/?p=2",
     "sourceLabel": "回到图中这一刻",
     "caption": "约19:52，Zyy视角出现“我方拾取曼德尔砖”。图中右侧是园区主播即时信息，不是全赛事最终排名；正式直通名单仍要等收官。",
-    "location": "data.chapters[11].report.images[0]",
-    "sha256": "731274517f20ab59d35bdaad2029f7521b49aeebb456fa8c7af717fbf85a0af3"
+    "sha256": "731274517f20ab59d35bdaad2029f7521b49aeebb456fa8c7af717fbf85a0af3",
+    "embeddedAt": "data.chapters[11].report.images[0]"
   },
   {
-    "file": "assets/images/image-19.jpg",
     "sourceUrl": "https://static.lolfun.cn/2026/08/01/b6681f7d39a02563a8ae63cfa5acb905.jpg",
     "sourceLabel": "赛前阵容原图",
     "caption": "这是8月2日开赛前的36人争冠阵容海报，排列是名单展示，不是比赛成绩。",
-    "location": "data.chapters[15].report.images[0]",
-    "sha256": "41609802e4ec5486ce66502a44cc5a4ec3d323b7dec0bbeb082aa036c09aa51f"
+    "sha256": "41609802e4ec5486ce66502a44cc5a4ec3d323b7dec0bbeb082aa036c09aa51f",
+    "embeddedAt": "data.chapters[15].report.images[0]"
   },
   {
-    "file": "assets/images/image-20.jpg",
     "sourceUrl": "https://www.taptap.cn/moment/831978304582978783?group_id=531928",
     "sourceLabel": "官方赛前海报",
     "caption": "7月30日官方决赛规则海报中的航天场景示意，并非比赛现场照片。",
-    "location": "data.chapters[16].images[0]",
-    "sha256": "4d678d9b881ba8f6c5b6af0dfe752fe6cebaf986ca1d2ec819096d4a02bbb169"
+    "sha256": "4d678d9b881ba8f6c5b6af0dfe752fe6cebaf986ca1d2ec819096d4a02bbb169",
+    "embeddedAt": "data.chapters[16].images[0]"
   },
   {
-    "file": "assets/images/image-21.jpg",
     "sourceUrl": "https://www.taptap.cn/moment/822077141456782445?group_id=531928",
     "sourceLabel": "官方赛制与开赛海报",
     "caption": "7月3日开赛前发布的官方视觉。现在，比赛还没有开始。",
-    "location": "data.coverImages[0]",
-    "sha256": "8b60225c1f52fc43908d76c7921f3761a83253fd5aa2deca528d895fd0123441"
+    "sha256": "8b60225c1f52fc43908d76c7921f3761a83253fd5aa2deca528d895fd0123441",
+    "embeddedAt": "data.coverImages[0]"
   }
 ]
